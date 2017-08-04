@@ -1,3 +1,11 @@
+Website assembled and maintained by Colin Van Sickle.
+
+Learn more about Colin Van Sickle by visiting www.colin.red
+
+Built Using an HTML5 UP Template
+
+<----- credits ------->
+
 Astral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
